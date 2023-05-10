@@ -1,0 +1,3 @@
+[submodule "SistBancario"]
+	path = SistBancario
+	url = https://github.com/MaxiGithub11/SistBancario.git
